@@ -1,7 +1,7 @@
 # Dev Override Values for my Helm Chart
 
 container:
-  image: rauserdockerhub/images:app-26
+  image: rauserdockerhub/images:app-27
 
 replicaCount: 2
 
